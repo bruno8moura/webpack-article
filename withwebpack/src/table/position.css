@@ -1,0 +1,8 @@
+/* 
+ * file: position.css 
+ *
+ * Sets the table's position on a screen 
+ */
+table {
+    margin: 0 auto;
+}
